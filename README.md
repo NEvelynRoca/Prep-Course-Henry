@@ -1,2 +1,2 @@
-# Prep-Course-Henry
-Repositorio de prueba creado para el modulo 2 del Prep Course de Henry.
+Este repositorio es una prueba sobre como crearlo desde la nube de github y clonarlo de forma local a mi computadora.
+
